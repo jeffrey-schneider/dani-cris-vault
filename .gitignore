@@ -1,0 +1,19 @@
+# Ignore local workspace layouts
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/app.json
+
+# Ignore plugin cache or state
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional ignore for temp folders
+/backups/
+/temp/
+/drafts/
