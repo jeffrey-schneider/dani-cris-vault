@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b1e3e64ac145daac",
+        "id": "8ce679c42e46b440",
         "type": "tabs",
         "children": [
           {
-            "id": "2814ac8a2caf8f57",
+            "id": "5a67dbcd89759820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "02_Scenes/01_BackinTown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "03018dd08f44abac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0ed27023c552b17b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "01_BackinTown"
             }
           }
         ]
@@ -90,11 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "98a0f0bcb2220d16",
@@ -184,8 +169,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2814ac8a2caf8f57",
+  "active": "5a67dbcd89759820",
   "lastOpenFiles": [
-    "Welcome.md"
+    "04_Plot_Arcs/Scene_Tracker.md",
+    "Rule_Collar_Permission.md",
+    "04_Plot_Arcs/Character_Matrix.md",
+    "01_Characters/Character Index.md",
+    "03_Rules/Rule_01_LiftHead.md",
+    "03_Rules/Rule_02_WaitToSpeak.md",
+    "03_Rules/Rule_03_SpeakWhenAsked.md",
+    "03_Rules/Rule_Tracker.md",
+    "99_Reference/How to Visualize Character Arcs in Obsidian’s Graph View.md",
+    "02_Scenes/03_SilentRules_CollarLift.md",
+    "01_Characters/Mateo.md",
+    "02_Scenes/06_PublicFallout.md",
+    "02_Scenes/07_YouCanLeave.md",
+    "02_Scenes/11_Scene_RulesDiscussion.md",
+    "02_Scenes/10_Scene_MateoDeparture.md",
+    "02_Scenes/09_Scene_DaniReturnsToCris.md",
+    "02_Scenes/08_TellMeYou'llStay.md",
+    "02_Scenes/08_Scene_DaniWithdraws.md",
+    "02_Scenes/07_Scene_CrisHotelCall.md",
+    "02_Scenes/05_LossRevealed.md",
+    "02_Scenes/04_LakeCabin.md",
+    "02_Scenes/03_CourthouseWedding.md",
+    "02_Scenes/02_ApartmentConfrontation.md",
+    "02_Scenes/01_BackinTown.md",
+    "99_Reference/Scene Writing Checklist.md",
+    "02_Scenes/04_CrisBreaks_ThenWaits.md",
+    "99_Reference~",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "01_Characters/SupportingCast",
+    "01_Characters/Mateo",
+    "01_Characters/Cris",
+    "01_Characters/Dani",
+    "01_Characters/Cris",
+    "99_Reference",
+    "05_Tags",
+    "04_Plot_Arcs",
+    "03_Rules"
   ]
 }
