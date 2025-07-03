@@ -1,16 +1,22 @@
 ---
 title: The Return
 scene_id: 01
-date: 2025-07-01
+date: 2025-07-02
 status: #draft
 pov: #pov/cris
-arc: #arc/dani #arc/cris
-setting: #scene/mixed
+arc:  ["#arc/dani" , "#arc/cris"]
+setting: #scene/unknown
 theme: #theme/reckoning
-emotion: #emotion/devastation
+emotion: #emotion/threshold
 linked_arcs: [[Arc_Dani]] [[Arc_Cris]]
 related_rules: []
+act: 1
+chapter: 1
+scene: 1
+status: "#draft"
+pov: "#pov/cris"
 ---
+
 
 # Scene 01 – “The Return”
 

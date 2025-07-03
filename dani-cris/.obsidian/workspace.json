@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce679c42e46b440",
+        "id": "a94ff7ca69b21bb6",
         "type": "tabs",
         "children": [
           {
-            "id": "5a67dbcd89759820",
+            "id": "5237a0ec068c4605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Scenes/01_BackinTown.md",
+                "file": "02_Scenes/Dani and Cris/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_BackinTown"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "1480380f686a2937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Scenes/Dani and Cris/CH_A_S10_FallIntoMe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CH_A_S10_FallIntoMe"
+            }
+          },
+          {
+            "id": "fab2caab47a2e161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Scenes/Dani and Cris/manuscript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "manuscript"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,13 +102,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d31d6266f6e722c4",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 482.5
   },
   "right": {
     "id": "98a0f0bcb2220d16",
@@ -169,46 +208,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a67dbcd89759820",
+  "active": "fab2caab47a2e161",
   "lastOpenFiles": [
-    "04_Plot_Arcs/Scene_Tracker.md",
-    "Rule_Collar_Permission.md",
-    "04_Plot_Arcs/Character_Matrix.md",
-    "01_Characters/Character Index.md",
-    "03_Rules/Rule_01_LiftHead.md",
-    "03_Rules/Rule_02_WaitToSpeak.md",
-    "03_Rules/Rule_03_SpeakWhenAsked.md",
-    "03_Rules/Rule_Tracker.md",
-    "99_Reference/How to Visualize Character Arcs in Obsidian’s Graph View.md",
-    "02_Scenes/03_SilentRules_CollarLift.md",
-    "01_Characters/Mateo.md",
-    "02_Scenes/06_PublicFallout.md",
-    "02_Scenes/07_YouCanLeave.md",
-    "02_Scenes/11_Scene_RulesDiscussion.md",
-    "02_Scenes/10_Scene_MateoDeparture.md",
-    "02_Scenes/09_Scene_DaniReturnsToCris.md",
-    "02_Scenes/08_TellMeYou'llStay.md",
-    "02_Scenes/08_Scene_DaniWithdraws.md",
-    "02_Scenes/07_Scene_CrisHotelCall.md",
-    "02_Scenes/05_LossRevealed.md",
-    "02_Scenes/04_LakeCabin.md",
-    "02_Scenes/03_CourthouseWedding.md",
-    "02_Scenes/02_ApartmentConfrontation.md",
-    "02_Scenes/01_BackinTown.md",
-    "99_Reference/Scene Writing Checklist.md",
-    "02_Scenes/04_CrisBreaks_ThenWaits.md",
+    "02_Scenes/Dani and Cris/CH_A_S10_FallIntoMe.md",
+    "02_Scenes/Dani and Cris/CH_A_S09_IWontLeave.md",
+    "02_Scenes/Dani and Cris/CH_A_S08_PublicFallout.md",
+    "02_Scenes/Dani and Cris/CH_A_S03_DaniBreaks.md",
+    "02_Scenes/Dani and Cris/CH_A_S02_ApartmentKnock.md",
+    "02_Scenes/Dani and Cris/manuscript.md",
+    "02_Scenes/Dani and Cris/Index.md",
+    "02_Scenes/Dani and Cris/Delete This Scene.md",
+    "02_Scenes/Dani and Cris/project.json",
+    "02_Scenes/Dani and Cris/NewScene.md",
+    "02_Scenes/Dani and Cris",
+    "99_Reference/Scene_Template.md",
+    "99_Reference/Character_Index.md",
+    "99_Reference/Scene_Tracker.md",
+    "02_Scenes/Dani and Cris/CH_A_S07_LossRevealed.md",
+    "02_Scenes/Dani and Cris/CH_A_S06_LakeCabin.md",
+    "02_Scenes/Dani and Cris/CH_A_S05_CourthouseWedding.md",
+    "02_Scenes/Dani and Cris/CH_A_S04_MarryMeNow.md",
+    "02_Scenes/Dani and Cris/CH_A_S01_Back_in_Town.md",
+    "02_Scenes/Untitled",
+    "README.md",
+    "98_Archive/02a-Scene Archive/06_Scene_MateoClaimPhotograph.md",
+    "Untitled 1.md",
+    "98_Archive/02a-Scene Archive",
+    "98_Archive/Rule_Tracker.md",
+    "98_Archive/WritingNotes.md",
+    "98_Archive/Timeline.md",
+    "98_Archive/Settings.md",
+    "98_Archive/Scene_Metadata_Template.md",
+    "98_Archive",
+    "New folder",
+    "longform.json",
+    "02_Scenes/longform.json",
     "99_Reference~",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "01_Characters/SupportingCast",
-    "01_Characters/Mateo",
-    "01_Characters/Cris",
-    "01_Characters/Dani",
-    "01_Characters/Cris",
-    "99_Reference",
-    "05_Tags",
-    "04_Plot_Arcs",
-    "03_Rules"
+    "01_Characters/SupportingCast"
   ]
 }
